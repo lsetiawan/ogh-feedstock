@@ -1,6 +1,9 @@
 About ogh
 =========
 
+> [!WARNING]
+> **ogh is no longer maintained upstream.** The last upstream release of `ogh` was 0.2.1 on 2019-01-15. The upstream repository [Freshwater-Initiative/Observatory](https://github.com/Freshwater-Initiative/Observatory) is now used for research notebooks rather than package releases. This feedstock stays available for existing users, but no new versions are expected.
+
 [![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
 
 Home: https://github.com/Freshwater-Initiative/Observatory
